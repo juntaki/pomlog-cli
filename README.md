@@ -1,11 +1,11 @@
-# pomlog - pomodoro logger
+# Productivity logger
 
 Small CLI tool for work time logger based on Pomodoro technique.
 
 ## How to use
 
 ~~~
-$ go run pomodoro-cli.go
+$ go run main.go
 What number are you doing?
 [0: work1][1: work2][999: exit]
 0
